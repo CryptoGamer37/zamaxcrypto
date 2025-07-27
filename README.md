@@ -1,5 +1,5 @@
 # zamaxcrypto
-zama
+zama testnet
 cryptoxzama
 zama testnet test
 step 1 guild
